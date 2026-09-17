@@ -1,5 +1,5 @@
 [submodule "vendor/leopard"]
 	path = vendor/leopard
-	url = https://github.com/durability-labs/leopard.git
+	url = https://github.com/promethei-project/leopard.git
 	ignore = untracked
 	branch = master
